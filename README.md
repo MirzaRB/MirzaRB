@@ -34,7 +34,7 @@ With expertise in WordPress and full-stack development, I'm Mirza Rehan Baig, a 
   &nbsp; &nbsp; 
   <span style="font-weight: bold;">Firebase</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  &nbsp; &nbsp; <br><br>
+  &nbsp; &nbsp; <br>
   <span style="font-weight: bold;">Gatsby</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>
   &nbsp; &nbsp;
