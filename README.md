@@ -6,7 +6,7 @@
 With expertise in WordPress and full-stack development, I'm Mirza Rehan Baig, a software developer dedicated to crafting innovative solutions that redefine boundaries. Over six years of experience have honed my skills across the entire stack, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. Alongside, I excel in mobile app development, proficient in React Native and Flutter. Proficiency in various Content Management Systems (CMS) including WordPress, Shopify, Webflow, and Squarespace empowers me to create captivating and functional websites tailored to diverse client needs across industries.
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; flex-wrap: nowrap;">
   <span style="font-weight: bold;">React</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
