@@ -8,6 +8,12 @@ With expertise in WordPress and full-stack development, I'm Mirza Rehan Baig, a 
 
 ## :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; flex-wrap: nowrap;">
+  <span style="font-weight: bold;">WordPress</span>
+  <img src="https://simpleicons.org/icons/wordpress.svg"  title="WordPress" alt="WordPress" width="40" height="40"/>
+  &nbsp; &nbsp;
+  <span style="font-weight: bold;">Shopify</span>
+  <img src="https://simpleicons.org/icons/shopify.svg"  title="Shopify" alt="Shopify" width="40" height="40"/>
+  &nbsp; &nbsp;
   <span style="font-weight: bold;">React</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   &nbsp; &nbsp; 
@@ -20,9 +26,6 @@ With expertise in WordPress and full-stack development, I'm Mirza Rehan Baig, a 
   <span style="font-weight: bold;">CSS3</span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   &nbsp; &nbsp; 
-  <span style="font-weight: bold;">WordPress</span>
-  <img src="https://simpleicons.org/icons/wordpress.svg"  title="WordPress" alt="WordPress" width="40" height="40"/>
-  &nbsp; &nbsp;
   <span style="font-weight: bold;">Shopify</span>
   <img src="https://simpleicons.org/icons/shopify.svg"  title="Shopify" alt="Shopify" width="40" height="40"/>
   &nbsp; &nbsp;
